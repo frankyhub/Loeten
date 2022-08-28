@@ -2,7 +2,7 @@
 
 ![pic](https://github.com/frankyhub/Loeten/blob/main/fldr.jpg)
 
-[Robi](https://github.com/frankyhub/Loeten/blob/main/Robi/RobiRGB.pdf)
+[Robi](https://github.com/frankyhub/Loeten/blob/main/Robi/RobiRGB.pdf)  [Smiley](https://github.com/frankyhub/Loeten/blob/main/Smiley/Smiley.pdf)
 
 ![pic](https://github.com/frankyhub/Loeten/blob/main/rosm.png)
 
