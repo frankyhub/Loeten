@@ -11,3 +11,5 @@
 [Seegeist](https://github.com/frankyhub/Loeten/blob/main/SeegeistNE555/Seegeist.pdf)
 
 ![pic](https://github.com/frankyhub/Loeten/blob/main/geist2.jpg)
+
+![pic](https://github.com/frankyhub/Loeten/blob/main/Herz/herzkl.jpg)
